@@ -29,3 +29,7 @@ select the `Upload` tab, and scroll down till you can see upload presets.
 
 ## Create .gitignore file so that our .env file is not pushed to the github repoistory
 Add `.env` to the `.gitignore` file.
+
+## Use the Cloudinary upload widget
+
+Documentation for the widget: https://cloudinary.com/documentation/upload_widget
